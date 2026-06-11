@@ -1,12 +1,12 @@
 [Risk-Assessment-README.md](https://github.com/user-attachments/files/28842403/Risk-Assessment-README.md)
-# 🛡️ Risk Assessment — 45-Day Practice | Certified
+# 🛡️ Risk Assessment — Write-up 01 | Certified
 
 > **Issued by:** SRIDa IT — GRC Training & Compliance Solutions
 > **Completed by:** Sayak Nath
 > **Date:** June 4, 2026
 > **Certificate ID:** U2F5YWSGTMF0AC0X
 
----<img width="1200" height="850" alt="Risk-Assessment-Certificate" src="https://github.com/user-attachments/assets/dfa464b5-e2fc-46ef-8b01-9bfaa8ac1493" />
+
 
 
 ## What's This About?
